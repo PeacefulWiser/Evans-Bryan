@@ -1,0 +1,9 @@
+html {
+    font-size: 10px;
+}
+#image {
+    max-width: 100px;
+    display: block;
+    height: auto;
+    margin: O auto;
+}
